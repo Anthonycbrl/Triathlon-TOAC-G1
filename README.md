@@ -169,11 +169,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Quentin Beaufort - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com \
+Andrew Phakeovilay - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com \
+Anthony Cabrillac - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com \
+Léo Douville - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Lien du projet: [https://github.com/Anthonycbrl/Triathlon-TOAC-G1](https://github.com/Anthonycbrl/Triathlon-TOAC-G1)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 
 
