@@ -32,7 +32,7 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    </li
+    </li>
     <li>  
         <a href="##about-the-company">Présentation de l'entreprise</a> 
     </li>
