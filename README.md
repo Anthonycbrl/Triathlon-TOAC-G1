@@ -32,7 +32,8 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    </li>
+    </li
+    <li>  <a href="#presentation">Présentation de l'entreprise</a> </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -75,7 +76,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
-
+<!-- PRESENTATION -->
 ## Présentation de l'entreprise
 
 Depuis 1992, le TOAC Triathlon fait partie des clubs indissociables de la ville de Toulouse. 
