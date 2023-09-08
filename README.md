@@ -34,7 +34,7 @@
       </ul>
     </li>
     <li>  
-        <a href="##about-the-company">Présentation de l'entreprise</a> 
+        <a href="#about-the-company">Présentation de l'entreprise</a> 
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
