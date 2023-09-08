@@ -34,7 +34,7 @@
       </ul>
     </li
     <li>  
-        <a href="#presentation">Présentation de l'entreprise</a> 
+        <a href="##about-the-company">Présentation de l'entreprise</a> 
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -79,7 +79,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
-<!-- PRESENTATION -->
+<!-- ABOUT THE COMPANY -->
 ## Présentation de l'entreprise
 
 
