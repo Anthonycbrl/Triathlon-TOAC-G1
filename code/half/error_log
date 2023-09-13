@@ -1,0 +1,72 @@
+[20-Oct-2019 21:15:51 UTC] Erreur de la base de données WordPress Duplicate entry '2019-10-21' for key 'unique_date' pour la requête INSERT INTO `wp_statistics_visit` (`last_visit`, `last_counter`, `visit`) VALUES ('', '2019-10-21', 0) faite par do_action_ref_array('wp_statistics_add_visit_hook'), WP_Hook->do_action, WP_Hook->apply_filters, WP_Statistics_Schedule->add_visit_event
+[07-Nov-2019 08:22:43 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support/">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur de votre serveur.) in /home/dumi7998/toac-triathlon/half/wp-includes/update.php on line 160
+[08-Nov-2019 08:19:41 UTC] PHP Warning:  require_once(/home/dumi7998/toac-triathlon/half/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/init.php): failed to open stream: No such file or directory in /home/dumi7998/toac-triathlon/half/wp-content/plugins/wordfence/wordfence.php on line 66
+[08-Nov-2019 08:19:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/dumi7998/toac-triathlon/half/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/init.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dumi7998/toac-triathlon/half/wp-content/plugins/wordfence/wordfence.php on line 66
+[14-Nov-2019 21:51:24 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/dumi7998/toac-triathlon/half/wp-content/plugins/all-in-one-seo-pack/inc/general/aioseop-robots-meta.php on line 132
+[14-Nov-2019 21:51:27 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/dumi7998/toac-triathlon/half/wp-content/plugins/all-in-one-seo-pack/inc/general/aioseop-robots-meta.php on line 136
+[14-Nov-2019 21:51:48 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/dumi7998/toac-triathlon/half/wp-content/plugins/all-in-one-seo-pack/inc/general/aioseop-robots-meta.php on line 132
+[14-Nov-2019 21:51:48 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/dumi7998/toac-triathlon/half/wp-content/plugins/all-in-one-seo-pack/inc/general/aioseop-robots-meta.php on line 136
+[16-Nov-2019 12:59:20 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/dumi7998/toac-triathlon/half/wp-content/plugins/all-in-one-seo-pack/inc/general/aioseop-robots-meta.php on line 132
+[16-Nov-2019 12:59:20 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/dumi7998/toac-triathlon/half/wp-content/plugins/all-in-one-seo-pack/inc/general/aioseop-robots-meta.php on line 136
+[16-Nov-2019 12:59:20 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/dumi7998/toac-triathlon/half/wp-content/plugins/all-in-one-seo-pack/inc/general/aioseop-robots-meta.php on line 132
+[16-Nov-2019 12:59:20 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/dumi7998/toac-triathlon/half/wp-content/plugins/all-in-one-seo-pack/inc/general/aioseop-robots-meta.php on line 136
+[19-Nov-2019 23:31:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function salient_social_colors() in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php:58
+Stack trace:
+#0 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): Salient_Social->salient_social_enqueue_css('')
+#1 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /home/dumi7998/toac-triathlon/half/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/dumi7998/toac-triathlon/half/wp-includes/script-loader.php(2667): do_action('wp_enqueue_scri...')
+#4 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(455): wp_enqueue_scripts()
+#5 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(552): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#6 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): WP_Customize_Manager->setup_theme('')
+#7 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.ph in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php on line 58
+[17-Dec-2019 14:04:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function salient_social_colors() in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php:58
+Stack trace:
+#0 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): Salient_Social->salient_social_enqueue_css('')
+#1 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /home/dumi7998/toac-triathlon/half/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/dumi7998/toac-triathlon/half/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(455): wp_enqueue_scripts()
+#5 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(552): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#6 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): WP_Customize_Manager->setup_theme('')
+#7 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.ph in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php on line 58
+[17-Dec-2019 14:05:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function salient_social_colors() in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php:58
+Stack trace:
+#0 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): Salient_Social->salient_social_enqueue_css('')
+#1 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /home/dumi7998/toac-triathlon/half/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/dumi7998/toac-triathlon/half/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(455): wp_enqueue_scripts()
+#5 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(552): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#6 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): WP_Customize_Manager->setup_theme('')
+#7 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.ph in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php on line 58
+[17-Dec-2019 14:10:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function salient_social_colors() in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php:58
+Stack trace:
+#0 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): Salient_Social->salient_social_enqueue_css('')
+#1 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /home/dumi7998/toac-triathlon/half/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/dumi7998/toac-triathlon/half/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(455): wp_enqueue_scripts()
+#5 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(552): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#6 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): WP_Customize_Manager->setup_theme('')
+#7 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.ph in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php on line 58
+[18-Dec-2019 11:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function salient_social_colors() in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php:58
+Stack trace:
+#0 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): Salient_Social->salient_social_enqueue_css('')
+#1 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /home/dumi7998/toac-triathlon/half/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/dumi7998/toac-triathlon/half/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(455): wp_enqueue_scripts()
+#5 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(552): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#6 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): WP_Customize_Manager->setup_theme('')
+#7 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.ph in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php on line 58
+[06-Jan-2020 17:04:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function salient_social_colors() in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php:58
+Stack trace:
+#0 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): Salient_Social->salient_social_enqueue_css('')
+#1 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /home/dumi7998/toac-triathlon/half/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/dumi7998/toac-triathlon/half/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(455): wp_enqueue_scripts()
+#5 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-customize-manager.php(552): WP_Customize_Manager->wp_die(0, 'Non-existent ch...')
+#6 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.php(288): WP_Customize_Manager->setup_theme('')
+#7 /home/dumi7998/toac-triathlon/half/wp-includes/class-wp-hook.ph in /home/dumi7998/toac-triathlon/half/wp-content/plugins/salient-social/plugin.php on line 58

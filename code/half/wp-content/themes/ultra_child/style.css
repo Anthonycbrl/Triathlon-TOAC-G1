@@ -1,0 +1,683 @@
+/*
+Theme Name: Ultra Child
+Description: Theme enfant de Ultra
+Author: Ludo Malpel
+Author URI: http://test.toact-triahlon.com
+Template: ultra
+Version: 1.0.0
+*/
+
+/*--------------------------------------------------------------
+HEADER
+--------------------------------------------------------------*/
+
+#masthead {
+	background-image: linear-gradient(#EF9F29, #313191);
+}
+
+.site-header {
+	height: 100px;
+}
+
+.site-header .container {
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.site-header .site-branding-container {
+	height: 100px;
+}
+
+.site-header .site-branding img {
+	max-height: 80px;
+}
+
+.site-header .site-branding a {
+	font-size: 20px;
+	color: black;
+	font-weight: bold;
+}
+
+.main-navigation {
+	display: flex;
+}
+
+.menu-menu-principal-container {
+	display: flex;
+}
+
+.main-navigation ul {
+	display: flex;
+	margin: auto 0;
+}
+
+.main-navigation ul li:hover > a {
+	color: white;
+}
+
+.main-navigation div > ul > li > a:hover {
+	border-bottom: 3px solid #EF9F29;
+}
+
+.responsive-menu .menu-toggle {
+	color: black;
+}
+
+.main-navigation div > ul > li > a, .menu a[href*="flickr.com"] {
+	height: 50px;
+	line-height: 50px;
+	font-weight: bold;
+	color: #000 !important;
+	font-size: 14px !important;
+}
+
+.menu a[href*="flickr.com"]::before {
+	content: none;
+}
+
+.main-navigation .current-menu-item > a, .main-navigation .current a {
+	color: #fff;
+}
+
+.main-navigation .menu-search {
+	height: 100px;
+}
+
+.main-navigation .menu-search .search-icon::before {
+	height: 100px;
+	line-height: 100px;
+}
+
+.register {
+	color: #EF9F29;
+}
+
+#volunteers-button {
+	position: absolute;
+	width: 200px;
+	background: yellow;
+	bottom: -30px;
+	height: 30px;
+	right: 10px;
+	text-align: center;
+	color: #000;
+	font-family: "Lato", sans-serif;
+	line-height: 30px;
+	border-radius: 0px 0px 10px 10px;
+}
+
+#volunteers-button > a {
+	color: black;
+	font-weight: bold;
+}
+
+
+/*--------------------------------------------------------------
+CONTENT
+--------------------------------------------------------------*/
+
+.sidebar #primary {
+	padding-right: 1.5%;
+	width: 80%;
+}
+
+#secondary {
+	padding-left: 1.5%;
+	width: 20%;
+}
+
+#menu-menu-accueil {
+	margin: 0px;
+	text-align: center;
+}
+
+#menu-menu-accueil a {
+	color: black;
+	font-weight: bold;
+}
+
+#menu-courses, #menu-resultats, #menu-informations {
+	margin: 0;
+}
+
+#menu-informations {
+	margin-bottom: 0;
+}
+
+.menu-courses-container, .menu-informations-container {
+	font-size: 12px;
+}
+
+#menu-courses > li > a, #menu-courses > li > a:hover, #menu-resultats > li > a, #menu-resultats > li > a:hover, #menu-informations > li > a, #menu-informations > li > a:hover {
+	color: black;
+	font-weight: bold;
+}
+
+#menu-courses li ul li, #menu-resultats li ul li, #menu-informations li ul li {
+	list-style: disclosure-closed;
+	color: #EF9F29;
+}
+
+h3 {
+	font-size: 18px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+p {
+	margin-bottom: 10px;
+	text-align: justify;
+	text-indent: 30px;
+}
+
+.entry-thumbnail {
+	display: none;
+}
+
+/*--------------------------------------------------------------
+COURSES PAGE
+--------------------------------------------------------------*/
+
+#main-saturday, #main-sunday {
+	width: 100%;
+	height: auto;
+	padding-bottom: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	background-color: #edeff2;
+}
+
+.courses-day {
+	width: 100%;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 40px;
+	background-image: linear-gradient(#EF9F29, #313191);
+	border-radius: 10px;
+	text-align: center;
+	color: #fff;
+	margin-bottom: 10px;
+}
+
+.timeline-block {
+	width: 100%;
+	height: auto;
+	margin-bottom: 15px;
+}
+
+.timeline-subblock {
+	width: 100%;
+	height: 40px;
+	display: flex;
+}
+
+.timeline-subblock-one {
+	width: 85%;
+	height: 40px;
+	display: flex;
+	box-shadow: 5px 5px 10px #625656;
+	background: #fff;
+}
+
+.timeline-subblock-bis {
+	width: 75%;
+	height: auto;
+	flex-direction: column;
+	margin-left: 25%;
+	border-left: 3px solid #143fd6;
+	background: #D8DDE2;
+}
+
+.timeline-subblock-ter {
+	width: 100%;
+	height: 30px;
+	display: flex;
+}
+
+.timeline-race-opening {
+	width: 85%;
+	height: 30px;
+	line-height: 26px;
+	color: #143fd6;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 10px;
+	border: 2px solid #143fd6;
+	background: #fff;
+}
+
+.timeline-hour {
+	width: 10%;
+	line-height: 40px;
+	font-size: 14px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+
+.timeline-dot {
+	width: 10px;
+	height: 10px;
+	background: #EF9F29;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	margin: 15px 3% 15px 1%;
+}
+
+.timeline-race-name {
+	width: 25%;
+	height: 38px;
+	line-height: 38px;
+	background: #143fd6;
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+.timeline-triangle, .timeline-triangle-bis {
+	width: 1px;
+	height: 1px;
+	border: 1px solid #143fd6;
+	border-color: transparent transparent transparent #143fd6;
+	border-width: 19px;
+}
+
+.timeline-triangle-bis {
+	border-color: transparent #143fd6 transparent transparent;
+}
+
+.timeline-race-content {
+	width: auto;
+	height: 38px;
+	line-height: 30px;
+	padding: 4px;
+	display: flex;
+	margin: 0 auto;
+}
+
+.timeline-race-details {
+	width: 100%;
+	height: 30px;
+	line-height: 25px;
+	display: flex;
+	padding: 2.5px 10px;
+	color: black;
+}
+
+.timeline-licence {
+	height: 25px;
+	line-height: 25px;
+	margin-left: 5%;
+	display: flex;
+	justify-content: center;
+}
+
+img.aligncenter {
+	margin-bottom: 0;
+}
+
+
+/*--------------------------------------------------------------
+RACE PAGE
+--------------------------------------------------------------*/
+
+.racepage-subtitle {
+	height: 30px;
+	line-height: 30px;
+	display: flex;
+	margin: 5px auto;
+	font-size: 16px;
+	justify-content: center;
+}
+
+.racepage-icon {
+	margin: 0 10px;
+}
+
+.racepage-subblock {
+	display: flex;
+}
+
+.racepage-title {
+	width: 90%;
+	height: 30px;
+	line-height: 30px;
+	border-bottom: 2px solid #EF9F29;
+	margin: 0 5%;
+	font-size: 16px;
+	padding-left: 15px;
+}
+
+.racepage-plan, .racepage-plan-even {
+	width: 70%;
+	height: 30px;
+	line-height: 20px;
+	border-left: 2px solid #eaeaeb;
+	margin-left: 25%;
+	font-size: 12px;
+	padding: 5px 10px;
+	display: flex;
+	background: #eaeaeb;
+}
+
+.racepage-plan-even {
+	background: #d9d9d9;
+}
+
+.racepage-track {
+	width: 30%;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+/*--------------------------------------------------------------
+FOOTER
+--------------------------------------------------------------*/
+
+.sponsors-wrap {
+	display: flex;
+	height: auto;
+	background: #313539;
+	border-bottom: 0.5px #acaeaf solid;
+	justify-content: center;
+}
+
+.sponsors-title {
+	margin: auto 30px auto 5px;
+	font-family: 'Lobster Two', cursive;
+	font-size: 20px;
+	color: #acaeaf;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.sponsors-logo {
+	display: flex;
+	height: auto;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.sponsors-logo aside {
+	max-height: 50px;
+	margin: 10px 5px;
+}
+
+.sponsors-logo img {
+	max-height: 50px;
+	width: auto;
+}
+
+/*--------------------------------------------------------------
+RESPONSIVE
+--------------------------------------------------------------*/
+
+/* for 1000px or less */
+@media screen and (max-width: 1000px) {
+
+.wrapper-sticky {
+	display: block !important;
+}
+
+#masthead {
+	height: auto;
+}
+
+.site-header {
+	display: block;
+	height: auto;
+}
+
+.site-header .container {
+	flex-direction: column;
+	height: auto;
+}
+
+.site-header .site-branding-container {
+	max-width: 100% !important;
+}
+
+.site-header .site-branding {
+	margin: 0px;
+}
+
+.site-header .site-branding > a {
+	color: black;
+	font-family: "Cantora One", sans-serif;
+	font-size: 20px;
+}
+
+.site-header.scale.scaled .container {
+	height: auto;
+}
+
+.responsive-menu .menu-toggle {
+	height: auto;
+}
+
+.responsive-menu .main-navigation.toggled {
+	justify-content: center;
+	margin-bottom: 20px;
+}
+
+.responsive-menu .main-navigation.toggled > div {
+	max-width: 100%;
+}
+
+.responsive-menu .main-navigation.toggled ul li a:hover, .responsive-menu .main-navigation.toggled ul li a:hover::before {
+	background-image: linear-gradient(#EF9F29, #313191);
+}
+
+.responsive-menu .main-navigation.toggled ul {
+	display: flex;
+	overflow: scroll;
+}
+
+.menu-item-464:hover > a {
+	color: #fff;
+}
+
+.panel-grid {
+	flex-direction: column;
+}
+
+.panel-grid-cell {
+	width: 100% !important;
+}
+
+.sub-menu {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.sub-menu li {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+
+
+.sponsors-title {
+	margin: auto 20px;
+}
+
+}
+
+/* for 780px or less */
+@media screen and (max-width: 780px) {
+
+#secondary {
+	display: none;
+}
+
+}
+
+/* for 650px or less */
+@media screen and (max-width: 650px) {
+
+}
+
+/* for 600px or less */
+@media screen and (max-width: 600px) {
+
+.timeline-subblock {
+	height: 30px;
+}
+
+.timeline-hour {
+	line-height: 30px;
+	font-size: 12px;
+}
+
+.timeline-dot {
+	width: 7px;
+	height: 7px;
+	margin: 11.5px 2% 11.5px 1%;
+	border-radius: 3.5px;
+}
+
+.timeline-race-opening {
+	font-size: 12px;
+	width: 86%;
+}
+
+.timeline-subblock-one {
+	height: 30px;
+	width: 86%;
+}
+
+.timeline-race-name {
+	height: 28px;
+	line-height: 28px;
+	font-size: 14px;
+}
+
+.timeline-triangle {
+	border-width: 14px;
+}
+
+.timeline-triangle-bis {
+	display: none;
+}
+
+.timeline-race-details {
+	font-size: 10px;
+	padding: 2.5px 5px;
+}
+
+.timeline-race-content {
+	font-size: 10px;
+	height: 28px;
+	line-height: 20px;
+}
+
+.timeline-licence {
+	font-size: 10px;
+}
+
+.timeline-swimmer {
+	margin-right: 5px !important;
+	width: 20px;
+}
+
+.timeline-bike-run {
+	margin: 0 5px !important;
+	width: 20px;
+}
+
+.timeline-euro {
+	margin: auto 2px !important;
+	width: 15px;
+	height: 15px;
+}
+
+.racepage-subblock {
+	flex-direction: column;
+}
+
+.racepage-track {
+	width: 100%;
+	margin: 10px 0 !important;
+}
+
+
+}
+
+/* for 400px or less */
+@media screen and (max-width: 400px) {
+
+.timeline-race-content, .timeline-licence, {
+	font-size: 9px;
+}
+
+.timeline-hour {
+	font-size: 11px;
+}
+
+}
+
+
+/*--------------------------------------------------------------
+PLUGINS
+--------------------------------------------------------------*/
+
+/* Modification Plugin Form */
+
+div.wpforms-container-full {
+        border: 1px solid black;
+}
+
+div.wpforms-container-full,
+div.wpforms-container-full .wpforms-form * {
+	margin-left: auto;
+	margin-right: auto;
+        text-align: center;
+}
+
+div.wpforms-container-full .wpforms-form input[type=date],
+div.wpforms-container-full .wpforms-form input[type=datetime],
+div.wpforms-container-full .wpforms-form input[type=datetime-local],
+div.wpforms-container-full .wpforms-form input[type=email],
+div.wpforms-container-full .wpforms-form input[type=month],
+div.wpforms-container-full .wpforms-form input[type=number],
+div.wpforms-container-full .wpforms-form input[type=password],
+div.wpforms-container-full .wpforms-form input[type=range],
+div.wpforms-container-full .wpforms-form input[type=search],
+div.wpforms-container-full .wpforms-form input[type=tel],
+div.wpforms-container-full .wpforms-form input[type=text],
+div.wpforms-container-full .wpforms-form input[type=time],
+div.wpforms-container-full .wpforms-form input[type=url],
+div.wpforms-container-full .wpforms-form input[type=week],
+div.wpforms-container-full .wpforms-form select,
+div.wpforms-container-full .wpforms-form textarea {
+       margin-left: auto;
+       margin-right: auto;
+}
+
+div.wpforms-container-full .wpforms-form .wpforms-submit-container {
+       padding: 10px 0;
+}
+
+div.wpforms-container-full .wpforms-form textarea.wpforms-field-medium {
+       text-align: left;
+       width: 90%;
+}
+
+
+
+
+
+
+
