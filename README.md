@@ -37,16 +37,10 @@
         <a href="#about-the-company">Présentation de l'entreprise</a> 
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#getting-started">Ajouts et mises à jour</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -60,7 +54,6 @@
 Nous sommes un groupe de 4 étudiants en troisième année de BUT Informatique à l'IUT de Blagnac. Notre formation prévoit des projets de groupe appelés 'Situation d'apprentissage en équipe' ou 'SAÉ'. \
 Ce projet, qui constitue la première SAÉ de l'année, vise à exercer une refonte du site d'un club de triathlon toulousain: le TOAC. \
 L'objectif est donc un changement majeur du thème du site et de son évènement phare : le triathlon du lauragais. \
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `Triathlon-TOAC-G1`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
@@ -84,51 +77,16 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 Depuis 1992, le TOAC Triathlon fait partie des clubs indissociables de la ville de Toulouse. 
-Né en tant que section du Toulouse Olympique Aérospatiale Club, le TOAC Tri est aujourd’hui une association sportive indépendante soutenue par le TOAC. Le TOAC Triathlon est un acteur important du sport dans la région toulousain. Certains se rappelleront du           « Triathlon de Toulouse » qui se tenait annuellement à la Prairie des Filtres il y a encore 15 ans.
+Né en tant que section du Toulouse Olympique Aérospatiale Club, le TOAC Tri est aujourd’hui une association sportive indépendante soutenue par le TOAC. Le TOAC Triathlon est un acteur important du sport dans la région toulousain. Certains se rappelleront du « Triathlon de Toulouse » qui se tenait annuellement à la Prairie des Filtres il y a encore 15 ans.
 Nous y avions vu courir les meilleurs athlètes français lors de finales de coupe de France des clubs. Il était ensuite devenu le « Duathlon de Toulouse » et avait fini par se délocaliser sur la base de loisirs de La Ramée.Face à un exil forcé par l’arrivée du tram dans la métropole, le TOAC Triathlon a su rebondir en périphérie. C’est en 2012 que nous avons lancé notre nouvelle épreuve sur la ville de Nailloux : l’Half du Lauragais.
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Ajouts et mises à jour -->
+## Ajouts et mises à jour
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/Triathlon-TOAC-G1.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
@@ -137,12 +95,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Recueil du besoin
+- [ ] Analyse de l'existant
+- [ ] Développement
 
-See the [open issues](https://github.com/github_username/Triathlon-TOAC-G1/issues) for a full list of proposed features (and known issues).
+Regarder les [issues ouvertes](https://github.com/github_username/Triathlon-TOAC-G1/issues) pour une liste complète des fonctionnalités proposées (et problèmes connus).
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
@@ -151,22 +108,11 @@ See the [open issues](https://github.com/github_username/Triathlon-TOAC-G1/issue
 ## Contact
 
 Quentin Beaufort - quentin.bfrt@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/quentin-beaufort-019a28224) \
-Andrew Phakeovilay - andrew.p_pro@outlook.com \
-Anthony Cabrillac - cabrillacanthony@gmail.com \
-Léo Douville - leodvldvldvl@gmail.com
+Andrew Phakeovilay - andrew.p_pro@outlook.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/andrew-phakeovilay-731925234/) \
+Anthony Cabrillac - cabrillacanthony@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/anthony-cabrillac-042515234/)  \
+Léo Douville - leodvldvldvl@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/leo-douville-756766252/)
 
 Lien du projet: [https://github.com/Anthonycbrl/Triathlon-TOAC-G1](https://github.com/Anthonycbrl/Triathlon-TOAC-G1)
-
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
