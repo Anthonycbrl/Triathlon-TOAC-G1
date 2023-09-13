@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://half.toac-triathlon.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.0.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.4" -->
+<!-- generated-on="28 August 2015 5 h 54 min" -->
+<!-- Debug: Total comment count: 55 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://half.toac-triathlon.com/</loc>
+		<lastmod>2015-07-09T12:56:44+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=1662</loc>
+		<lastmod>2015-08-28T05:54:13+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1657: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1657</loc>
+		<lastmod>2015-07-09T12:56:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1660: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1660</loc>
+		<lastmod>2015-07-06T07:25:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1648: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1648</loc>
+		<lastmod>2015-07-03T14:13:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1650: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1650</loc>
+		<lastmod>2015-07-03T09:23:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1643: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1643</loc>
+		<lastmod>2015-07-01T21:44:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1640: Comments: 3 of 55 = 0.1 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1640</loc>
+		<lastmod>2015-07-01T21:42:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=36</loc>
+		<lastmod>2015-07-01T21:40:25+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=460</loc>
+		<lastmod>2015-06-23T05:57:40+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1621: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1621</loc>
+		<lastmod>2015-06-23T05:53:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1617: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1617</loc>
+		<lastmod>2015-06-19T13:11:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=1248</loc>
+		<lastmod>2015-06-17T20:23:49+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1598: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1598</loc>
+		<lastmod>2015-06-17T19:43:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=1521</loc>
+		<lastmod>2015-06-05T13:55:03+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1567: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1567</loc>
+		<lastmod>2015-05-11T06:35:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1552: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1552</loc>
+		<lastmod>2015-01-21T13:13:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1548: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1548</loc>
+		<lastmod>2015-01-07T10:22:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=73</loc>
+		<lastmod>2015-01-07T10:18:43+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=274</loc>
+		<lastmod>2015-01-07T10:14:29+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=936</loc>
+		<lastmod>2015-01-07T10:13:04+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1537: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1537</loc>
+		<lastmod>2014-12-29T07:12:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1534: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1534</loc>
+		<lastmod>2014-12-29T07:06:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1525: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1525</loc>
+		<lastmod>2014-11-30T13:59:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=1518</loc>
+		<lastmod>2014-11-30T13:23:29+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=59</loc>
+		<lastmod>2014-11-30T11:46:46+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=47</loc>
+		<lastmod>2014-11-30T08:34:25+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=1007</loc>
+		<lastmod>2014-11-28T10:50:31+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1454: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1454</loc>
+		<lastmod>2014-07-15T06:34:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=199</loc>
+		<lastmod>2014-07-11T12:53:01+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1478: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1478</loc>
+		<lastmod>2014-07-08T08:27:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1470: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1470</loc>
+		<lastmod>2014-07-07T05:09:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1466: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1466</loc>
+		<lastmod>2014-07-04T09:23:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1463: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1463</loc>
+		<lastmod>2014-07-03T07:01:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1459: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1459</loc>
+		<lastmod>2014-07-02T17:01:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1439: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1439</loc>
+		<lastmod>2014-07-01T20:14:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1448: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1448</loc>
+		<lastmod>2014-07-01T18:03:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1445: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1445</loc>
+		<lastmod>2014-07-01T17:54:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1436: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1436</loc>
+		<lastmod>2014-06-30T22:29:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1423: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1423</loc>
+		<lastmod>2014-06-23T17:23:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1418: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1418</loc>
+		<lastmod>2014-06-19T20:38:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1405: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1405</loc>
+		<lastmod>2014-06-18T16:32:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1376: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1376</loc>
+		<lastmod>2014-05-20T09:37:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1353: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1353</loc>
+		<lastmod>2014-02-21T09:24:49+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=249</loc>
+		<lastmod>2014-02-21T09:16:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=283</loc>
+		<lastmod>2014-02-21T09:10:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1344: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1344</loc>
+		<lastmod>2013-12-26T07:02:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1339: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1339</loc>
+		<lastmod>2013-12-22T13:51:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1333: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1333</loc>
+		<lastmod>2013-11-25T12:50:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=1171</loc>
+		<lastmod>2013-11-17T18:28:58+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=1001</loc>
+		<lastmod>2013-11-17T18:05:23+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1302: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1302</loc>
+		<lastmod>2013-11-04T15:21:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1297: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1297</loc>
+		<lastmod>2013-07-22T08:00:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1292: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1292</loc>
+		<lastmod>2013-07-22T07:43:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=1246</loc>
+		<lastmod>2013-07-10T05:55:34+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1286: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1286</loc>
+		<lastmod>2013-07-09T21:44:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1276: Comments: 4 of 55 = 0.1 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1276</loc>
+		<lastmod>2013-07-09T21:30:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1280: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1280</loc>
+		<lastmod>2013-07-09T21:28:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1268: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1268</loc>
+		<lastmod>2013-07-05T07:32:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1238: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1238</loc>
+		<lastmod>2013-07-04T12:55:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1236: Comments: 2 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1236</loc>
+		<lastmod>2013-07-03T22:09:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1234: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1234</loc>
+		<lastmod>2013-07-03T22:05:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1230: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1230</loc>
+		<lastmod>2013-07-03T10:35:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1222: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1222</loc>
+		<lastmod>2013-07-02T22:09:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1226: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1226</loc>
+		<lastmod>2013-07-02T22:07:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1218: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1218</loc>
+		<lastmod>2013-07-02T21:57:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1203: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1203</loc>
+		<lastmod>2013-06-25T21:39:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1195: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1195</loc>
+		<lastmod>2013-06-21T08:00:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1179: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1179</loc>
+		<lastmod>2013-06-19T06:08:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1167: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1167</loc>
+		<lastmod>2013-06-17T08:46:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1165: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1165</loc>
+		<lastmod>2013-06-17T07:05:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=30</loc>
+		<lastmod>2013-06-11T09:52:23+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1147: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1147</loc>
+		<lastmod>2013-06-10T17:10:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1124: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1124</loc>
+		<lastmod>2013-06-01T20:05:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1083: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1083</loc>
+		<lastmod>2013-06-01T08:02:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1102: Comments: 2 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1102</loc>
+		<lastmod>2013-05-26T17:01:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1097: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1097</loc>
+		<lastmod>2013-05-26T16:57:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1077: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1077</loc>
+		<lastmod>2013-02-17T09:30:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=1071</loc>
+		<lastmod>2013-02-17T09:23:38+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1062: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1062</loc>
+		<lastmod>2013-02-06T22:15:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1038: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1038</loc>
+		<lastmod>2013-01-27T15:13:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=951</loc>
+		<lastmod>2013-01-20T18:55:41+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=342</loc>
+		<lastmod>2013-01-11T23:15:00+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1027: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1027</loc>
+		<lastmod>2013-01-11T18:34:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1017: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1017</loc>
+		<lastmod>2012-12-24T15:15:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1012: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=1012</loc>
+		<lastmod>2012-12-21T14:07:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=118</loc>
+		<lastmod>2012-12-21T08:42:55+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 921: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=921</loc>
+		<lastmod>2012-12-21T08:26:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 909: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=909</loc>
+		<lastmod>2012-08-31T08:07:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=945</loc>
+		<lastmod>2012-07-28T21:14:12+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 913: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=913</loc>
+		<lastmod>2012-07-10T16:49:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=902</loc>
+		<lastmod>2012-07-09T09:58:52+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 895: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=895</loc>
+		<lastmod>2012-07-08T06:21:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 889: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=889</loc>
+		<lastmod>2012-07-06T04:57:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 881: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=881</loc>
+		<lastmod>2012-07-05T21:18:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 874: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=874</loc>
+		<lastmod>2012-06-28T14:21:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 867: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=867</loc>
+		<lastmod>2012-06-27T16:15:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=533</loc>
+		<lastmod>2012-06-21T13:15:33+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 795: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=795</loc>
+		<lastmod>2012-05-30T19:28:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 837: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=837</loc>
+		<lastmod>2012-05-29T06:30:51+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 776: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=776</loc>
+		<lastmod>2012-03-02T08:01:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 770: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=770</loc>
+		<lastmod>2012-02-06T18:36:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=214</loc>
+		<lastmod>2011-11-20T09:18:19+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 750: Comments: 2 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=750</loc>
+		<lastmod>2011-11-20T00:19:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=209</loc>
+		<lastmod>2011-11-19T23:32:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=207</loc>
+		<lastmod>2011-11-19T23:31:59+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=688</loc>
+		<lastmod>2011-11-19T23:31:39+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=205</loc>
+		<lastmod>2011-11-19T23:31:04+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 733: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=733</loc>
+		<lastmod>2011-07-13T10:12:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 729: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=729</loc>
+		<lastmod>2011-07-12T06:29:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 720: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=720</loc>
+		<lastmod>2011-07-11T20:08:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 709: Comments: 2 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=709</loc>
+		<lastmod>2011-07-11T18:57:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=45</loc>
+		<lastmod>2011-07-10T17:07:21+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 675: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=675</loc>
+		<lastmod>2011-07-10T17:05:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 666: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=666</loc>
+		<lastmod>2011-07-10T16:25:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 659: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=659</loc>
+		<lastmod>2011-07-08T08:45:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 651: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=651</loc>
+		<lastmod>2011-07-07T08:44:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 635: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=635</loc>
+		<lastmod>2011-07-04T19:04:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 629: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=629</loc>
+		<lastmod>2011-07-04T09:28:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 612: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=612</loc>
+		<lastmod>2011-06-28T04:59:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 587: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=587</loc>
+		<lastmod>2011-06-07T17:49:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 547: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=547</loc>
+		<lastmod>2011-04-16T16:33:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 541: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=541</loc>
+		<lastmod>2011-04-10T19:35:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 524: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=524</loc>
+		<lastmod>2011-03-15T08:12:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=457</loc>
+		<lastmod>2011-02-14T09:52:09+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 493: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=493</loc>
+		<lastmod>2011-02-13T16:17:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=432</loc>
+		<lastmod>2011-02-08T21:17:14+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=436</loc>
+		<lastmod>2011-02-08T21:14:58+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=112</loc>
+		<lastmod>2011-02-08T21:12:22+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 417: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=417</loc>
+		<lastmod>2011-01-09T11:28:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 399: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=399</loc>
+		<lastmod>2011-01-01T16:18:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 393: Comments: 0 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=393</loc>
+		<lastmod>2010-12-26T21:06:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 268: Comments: 1 of 55 = 0 points -->
+	<url>
+		<loc>http://half.toac-triathlon.com/?p=268</loc>
+		<lastmod>2010-12-13T07:48:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=340</loc>
+		<lastmod>2010-11-29T21:45:58+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=110</loc>
+		<lastmod>2010-11-29T08:44:04+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=300</loc>
+		<lastmod>2010-11-29T08:38:06+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=34</loc>
+		<lastmod>2010-11-29T08:37:20+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=53</loc>
+		<lastmod>2010-11-29T08:36:48+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=9</loc>
+		<lastmod>2010-11-29T08:35:25+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=25</loc>
+		<lastmod>2010-11-29T08:34:56+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=201</loc>
+		<lastmod>2010-11-26T13:27:58+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=6</loc>
+		<lastmod>2010-11-22T05:47:26+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=32</loc>
+		<lastmod>2010-11-18T20:14:09+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=4</loc>
+		<lastmod>2010-11-18T18:25:43+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=2</loc>
+		<lastmod>2010-11-18T18:11:25+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://half.toac-triathlon.com/?page_id=136</loc>
+		<lastmod>2010-11-18T18:05:06+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
