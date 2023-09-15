@@ -53,7 +53,7 @@
 
 Nous sommes un groupe de 4 étudiants en troisième année de BUT Informatique à l'IUT de Blagnac. Notre formation prévoit des projets de groupe appelés 'Situation d'apprentissage en équipe' ou 'SAÉ'. \
 Ce projet, qui constitue la première SAÉ de l'année, vise à exercer une refonte du site d'un club de triathlon toulousain: le TOAC. \
-L'objectif est donc un changement majeur du thème du site et de son évènement phare : le triathlon du lauragais. \
+L'objectif est donc un changement majeur du thème du site et de son évènement phare : le triathlon du lauragais.
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
