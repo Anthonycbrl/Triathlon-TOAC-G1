@@ -80,7 +80,7 @@ Depuis 1992, le TOAC Triathlon fait partie des clubs indissociables de la ville 
 Né en tant que section du Toulouse Olympique Aérospatiale Club, le TOAC Tri est aujourd’hui une association sportive indépendante soutenue par le TOAC. Le TOAC Triathlon est un acteur important du sport dans la région toulousain. Certains se rappelleront du « Triathlon de Toulouse » qui se tenait annuellement à la Prairie des Filtres il y a encore 15 ans.
 Nous y avions vu courir les meilleurs athlètes français lors de finales de coupe de France des clubs. Il était ensuite devenu le « Duathlon de Toulouse » et avait fini par se délocaliser sur la base de loisirs de La Ramée.Face à un exil forcé par l’arrivée du tram dans la métropole, le TOAC Triathlon a su rebondir en périphérie. C’est en 2012 que nous avons lancé notre nouvelle épreuve sur la ville de Nailloux : l’Half du Lauragais.
 
-
+<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 <!-- Ajouts et mises à jour -->
 ## Ajouts et mises à jour
