@@ -28,16 +28,16 @@
   <summary>Sommaire</summary>
   <ol>
     <li>
-      <a href="#about-the-project">A propos du projet</a>
+      <a href="#a-propos-du-projet">A propos du projet</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>  
-        <a href="#about-the-company">Présentation de l'entreprise</a> 
+        <a href="#presentation-de-l-entreprise">Présentation de l'entreprise</a> 
     </li>
     <li>
-      <a href="#getting-started">Ajouts et mises à jour</a>
+      <a href="#ajouts-et-mises-a-jour">Ajouts et mises à jour</a>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -73,7 +73,7 @@ L'objectif est donc un changement majeur du thème du site et de son évènement
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 <!-- ABOUT THE COMPANY -->
-## Présentation de l'entreprise
+## Présentation de l entreprise
 
 
 Depuis 1992, le TOAC Triathlon fait partie des clubs indissociables de la ville de Toulouse. 
