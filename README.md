@@ -28,7 +28,10 @@
   <summary>Sommaire</summary>
   <ol>
     <li>
-      <a href="#a-propos-du-projet">A propos du projet</a> 
+      <a href="#a-propos-du-projet">A propos du projet</a>
+         <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
     </li>
     <li>  
         <a href="#presentation-de-l-entreprise">Présentation de l'entreprise</a> 
@@ -53,6 +56,9 @@ Ce projet, qui constitue la première SAÉ de l'année, vise à exercer une refo
 L'objectif est donc un changement majeur du thème du site et de son évènement phare : le triathlon du lauragais.
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
+
+### Built With
+
 
 
 <!-- ABOUT THE COMPANY -->
