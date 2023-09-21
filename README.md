@@ -34,10 +34,10 @@
       </ul>
     </li>
     <li>  
-        <a href="#presentation-de-l-entreprise">Présentation de l'entreprise</a> 
+        <a href="#entreprise">Entreprise</a> 
     </li>
     <li>
-      <a href="#ajouts-et-mises-a-jour">Ajouts et mises à jour</a>
+      <a href="#maj">MAJ</a>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -62,7 +62,7 @@ L'objectif est donc un changement majeur du thème du site et de son évènement
 
 
 <!-- ABOUT THE COMPANY -->
-## Présentation de l entreprise
+## Entreprise
 
 
 Depuis 1992, le TOAC Triathlon fait partie des clubs indissociables de la ville de Toulouse. 
@@ -72,7 +72,7 @@ Nous y avions vu courir les meilleurs athlètes français lors de finales de cou
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 <!-- Ajouts et mises à jour -->
-## Ajouts et mises à jour
+## MAJ
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
