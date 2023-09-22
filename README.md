@@ -59,7 +59,7 @@ L'objectif est donc un changement majeur du thème du site et de son évènement
 
 ### Built With
 
-
+[![Wordpress.com]][Wordpress-url]
 
 <!-- ABOUT THE COMPANY -->
 ## Entreprise
@@ -88,7 +88,7 @@ To get a local copy up and running follow these simple example steps.
 - [ ] Analyse de l'existant
 - [ ] Développement
 
-Regarder les [issues ouvertes](https://github.com/github_username/Triathlon-TOAC-G1/issues) pour une liste complète des fonctionnalités proposées (et problèmes connus).
+Regarder les [issues ouvertes](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/issues) pour une liste complète des fonctionnalités proposées (et problèmes connus).
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
@@ -138,3 +138,5 @@ Lien du projet: [https://github.com/Anthonycbrl/Triathlon-TOAC-G1](https://githu
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Wordpress.com]: https://khromov.github.io/wordpress-badge-generator/images/wp-button-small.png
+[Wordpress-url]: https://wordpress.com
