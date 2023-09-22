@@ -59,7 +59,8 @@ L'objectif est donc un changement majeur du thème du site et de son évènement
 
 ### Built With
 
-[![Wordpress.com]][Wordpress-url]
+[![Wordpress.com]][Wordpress-url] \
+[![Elementor.com]][Elementor-url]
 
 <!-- ABOUT THE COMPANY -->
 ## Entreprise
@@ -140,5 +141,5 @@ Lien du projet: [https://github.com/Anthonycbrl/Triathlon-TOAC-G1](https://githu
 [JQuery-url]: https://jquery.com 
 [Wordpress.com]: https://khromov.github.io/wordpress-badge-generator/images/wp-button-small.png
 [Wordpress-url]: https://wordpress.com
-[Elementor.url]: https://elementor.com/
-[Elementor.com]: https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Full-White.png
+[Elementor-url]: https://elementor.com/
+[Elementor.com]: https://i.ibb.co/KFsSf7x/Elementor-Logo-Full-White-1-1.png
