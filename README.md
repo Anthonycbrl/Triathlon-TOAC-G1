@@ -140,3 +140,5 @@ Lien du projet: [https://github.com/Anthonycbrl/Triathlon-TOAC-G1](https://githu
 [JQuery-url]: https://jquery.com 
 [Wordpress.com]: https://khromov.github.io/wordpress-badge-generator/images/wp-button-small.png
 [Wordpress-url]: https://wordpress.com
+[Elementor.url]: https://elementor.com/
+[Elementor.com]: https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Full-White.png
