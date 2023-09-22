@@ -10,7 +10,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1"><strong>Parcourez la doc »</strong></a>
+    <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/tree/main/doc"><strong>Parcourez la doc »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1">Voir démo</a>
