@@ -13,7 +13,7 @@
     <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/tree/main/doc"><strong>Parcourez la doc »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1">Voir démo</a>
+    <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1">Voir démo (WIP)</a>
     ·
     <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/issues">Signaler bug</a>
     ·
