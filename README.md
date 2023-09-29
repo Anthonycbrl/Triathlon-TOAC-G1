@@ -89,7 +89,7 @@ To get a local copy up and running follow these simple example steps.
 ## Roadmap
 
 - [x] Recueil du besoin
-- [ ] Analyse de l'existant
+- [x] Analyse de l'existant
 - [ ] Développement
 
 Regarder les [issues ouvertes](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/issues) pour une liste complète des fonctionnalités proposées (et problèmes connus).
