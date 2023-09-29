@@ -1,0 +1,69 @@
+[28-Sep-2023 14:16:24 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[28-Sep-2023 14:55:39 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[28-Sep-2023 16:11:47 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 09:12:32 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 11:46:09 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 11:47:20 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 11:47:44 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 11:48:16 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 11:49:22 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 11:54:56 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:07:57 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:08:49 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:18:13 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:28:24 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:36:42 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:39:20 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:46:57 UTC] Sync process for Gutenberg Blocks has started.
+[29-Sep-2023 12:46:57 UTC] CATEGORY:Importing categories..
+[29-Sep-2023 12:46:57 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[29-Sep-2023 12:46:57 UTC] CATEGORY:Completed category import.
+[29-Sep-2023 12:46:57 UTC] BLOCK: Getting Total Blocks
+[29-Sep-2023 12:46:57 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[29-Sep-2023 12:46:58 UTC] BLOCK: Requests count 4
+[29-Sep-2023 12:46:58 UTC] BLOCK: Importing request 1 ..
+[29-Sep-2023 12:46:58 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[29-Sep-2023 12:46:58 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[29-Sep-2023 12:46:58 UTC] BLOCK: Completed request 1
+[29-Sep-2023 12:46:58 UTC] BLOCK: Importing request 2 ..
+[29-Sep-2023 12:46:58 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[29-Sep-2023 12:46:58 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[29-Sep-2023 12:46:58 UTC] BLOCK: Completed request 2
+[29-Sep-2023 12:46:58 UTC] BLOCK: Importing request 3 ..
+[29-Sep-2023 12:46:58 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[29-Sep-2023 12:46:58 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[29-Sep-2023 12:46:58 UTC] BLOCK: Completed request 3
+[29-Sep-2023 12:46:58 UTC] BLOCK: Importing request 4 ..
+[29-Sep-2023 12:46:58 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[29-Sep-2023 12:46:59 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[29-Sep-2023 12:46:59 UTC] BLOCK: Completed request 4
+[29-Sep-2023 12:46:59 UTC] SITE: Getting Total Sites
+[29-Sep-2023 12:46:59 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[29-Sep-2023 12:46:59 UTC] SITE: Request count 2
+[29-Sep-2023 12:46:59 UTC] SITE: Importing request 1 ..
+[29-Sep-2023 12:46:59 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[29-Sep-2023 12:46:59 UTC] SITE: Storing in option ast-block-templates-sites-1
+[29-Sep-2023 12:46:59 UTC] SITE: Completed request 1
+[29-Sep-2023 12:46:59 UTC] SITE: Importing request 2 ..
+[29-Sep-2023 12:46:59 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[29-Sep-2023 12:46:59 UTC] SITE: Storing in option ast-block-templates-sites-2
+[29-Sep-2023 12:46:59 UTC] SITE: Completed request 2
+[29-Sep-2023 12:46:59 UTC] Sync process for Gutenberg Blocks is done.
+[29-Sep-2023 12:47:19 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:48:44 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:49:46 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:49:53 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:49:54 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:49:55 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:50:21 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:50:27 UTC] PHP Warning:  Undefined variable $options in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2324
+[29-Sep-2023 12:50:27 UTC] PHP Warning:  Undefined variable $enabled_extensions in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2324
+[29-Sep-2023 12:58:10 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 12:58:32 UTC] PHP Warning:  Undefined variable $options in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2324
+[29-Sep-2023 12:58:32 UTC] PHP Warning:  Undefined variable $enabled_extensions in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2324
+[29-Sep-2023 13:26:14 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 13:33:05 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 13:34:35 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 13:35:55 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 14:05:55 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
+[29-Sep-2023 14:06:11 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /var/www/html/wordpress/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 1996
