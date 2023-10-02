@@ -100,10 +100,17 @@ Regarder les [issues ouvertes](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/
 <!-- CONTACT -->
 ## Contact
 
+Initiales : \
 Quentin Beaufort - quentin.bfrt@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/quentin-beaufort-019a28224) \
 Andrew Phakeovilay - andrew.p_pro@outlook.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/andrew-phakeovilay-731925234/) \
 Anthony Cabrillac - cabrillacanthony@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/anthony-cabrillac-042515234/)  \
-Léo Douville - leodvldvldvl@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/leo-douville-756766252/)
+Léo Douville - leodvldvldvl@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/leo-douville-756766252/) \
+
+Alternants : \
+Mathis Lahitte - mathislahitteml@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/mathis-lahitte-94b413228/) \
+Gabin Munoz - munozgabinmg8@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/gabin-munoz/) \
+Egxon Zejnullahi - egxon@hotmail.fr - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/egxon-zejnullahi-550760234/) \
+Karim Zouli-Barrere - karim.zouli.edu@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/karim-zouli-barrere-b86640252/)
 
 Lien du projet: [https://github.com/Anthonycbrl/Triathlon-TOAC-G1](https://github.com/Anthonycbrl/Triathlon-TOAC-G1)
 
