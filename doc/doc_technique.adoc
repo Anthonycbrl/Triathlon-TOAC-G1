@@ -24,7 +24,9 @@ L’objectif de cette documentation permet aux prochains développeurs de config
 
 Nous avons à modifier les pages webs liés à wordpress. Puisque le client veut une page scroll, une nouvelle architecture a été mis en place :
 
-image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/doc/Maquette%20Toac.pdf[]
+https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/doc/Maquette%20Toac.pdf[La maquette]
+
+// image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/doc/Maquette%20Toac.pdf[]
 
 Mais nous devons respecter l’arborescence :
 
