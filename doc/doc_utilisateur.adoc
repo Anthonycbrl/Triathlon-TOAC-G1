@@ -1,6 +1,10 @@
+= Guide d'utilisation de l'administration de Wordpress
+
+= Guide d'utilisation d'Elementor
+
 = Guide de Sauvegarde du site
 
-== Étape 1 : Sauvegarde du site en ligne
+== Étape 1 : Télecharger les fichiers du site
 
 1. Connectez-vous à cPanel en utilisant le lien suivant : https://chat.o2switch.net:2083/
 
