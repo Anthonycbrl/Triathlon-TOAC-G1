@@ -41,6 +41,8 @@ image::php.png[]
 
 4. Cliquez sur l'onglet "Exporter".
 
+image::exporter.png[]
+
 5. Cochez l'option "Personnalisée" et assurez-vous que toutes les options possibles sont affichées.
 
 6. Dans la section "Sortie", sélectionnez l'option "Zippé" pour compresser la sauvegarde.
