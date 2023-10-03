@@ -10,7 +10,9 @@ ifndef::imagesdir[:imagesdir: ../images]
 1. Connectez-vous à cPanel en utilisant le lien suivant : https://chat.o2switch.net:2083/
 
 2. Accédez au gestionnaire de fichiers.
+
 image::image.png[]
+
 3. Remontez d'un niveau dans la structure des fichiers.
 
 4. Sélectionnez le site que vous souhaitez sauvegarder, dans notre cas, "half".
