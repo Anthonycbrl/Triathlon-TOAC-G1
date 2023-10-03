@@ -15,11 +15,17 @@ image::image.png[]
 
 3. Remontez d'un niveau dans la structure des fichiers.
 
+image::remonter.png[]
+
 4. Sélectionnez le site que vous souhaitez sauvegarder, dans notre cas, "half".
 
 5. Utilisez la fonctionnalité de compression en format ZIP pour compresser les fichiers du site.
 
+image::comp.png[]
+
 6. Sélectionnez le fichier ZIP résultant, puis utilisez la fonction de téléchargement pour le sauvegarder sur votre ordinateur.
+
+image::dl.png[]
 
 == Étape 2 : Exportation de la base de données
 
@@ -27,7 +33,11 @@ image::image.png[]
 
 2. Cliquez sur "phpMyAdmin".
 
+image::selectphpmyadmin.png[]
+
 3. Sélectionnez la base de données "dumin7998_half" dans le volet de gauche.
+
+image::php.png[]
 
 4. Cliquez sur l'onglet "Exporter".
 
