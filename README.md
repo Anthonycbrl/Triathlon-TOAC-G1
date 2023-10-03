@@ -13,9 +13,7 @@
     <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/tree/main/doc"><strong>Parcourez la doc »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1">Voir démo (WIP)</a>
-    ·
-    <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/issues">Signaler bug</a>
+    <a href="http://193.54.227.204/wordpress/">Voir démo (WIP)</a>
     ·
     <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/issues">Demander fonctionnalité</a>
   </p>
@@ -55,8 +53,8 @@ Nous sommes un groupe de 4 étudiants en troisième année de BUT Informatique �
 Ce projet, qui constitue la première SAÉ de l'année, vise à exercer une refonte du site d'un club de triathlon toulousain: le TOAC. \
 L'objectif est donc un changement majeur du thème du site et de son évènement phare : le triathlon du lauragais.
 
-Serveur en local : 192.168.224.134 \
-Serveur à distance : 193.54.227.204
+Serveur en local : http://192.168.224.134/wordpress/ \
+Serveur à distance : http://193.54.227.204/wordpress/
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
@@ -78,12 +76,7 @@ Nous y avions vu courir les meilleurs athlètes français lors de finales de cou
 <!-- Ajouts et mises à jour -->
 ## MAJ
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
