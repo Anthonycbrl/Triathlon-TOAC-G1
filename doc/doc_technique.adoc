@@ -24,11 +24,11 @@ L’objectif de cette documentation permet aux prochains développeurs de config
 
 Nous avons à modifier les pages webs liés à wordpress. Puisque le client veut une page scroll, une nouvelle architecture a été mis en place :
 
-image:https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/doc/Maquette%20Toac.pdf:[maquette]
+image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/doc/Maquette_Toac.pdf[]
 
 Mais nous devons respecter l’arborescence :
 
-image:https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/Arbo.png:[arborescence]
+image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/Arbo.png[arborescence]
 
 == Installation du Wordpress
 
@@ -38,20 +38,24 @@ image:https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/Arbo.png
 . Se diriger vers le repértoire /var/www/html/
 . Par client SCP, SFTP, FTP, transférer le repertoire extrait /wordpress dans le serveur au repertoire
 . Ensuite il faudra créer une base de données pour Wordpress, allez dans IP/phpmyadmin
-image:https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/createdb.png:[createdb]
+
+image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/createdb.png[createdb]
 . Configurer le fichier wp-config-sample.php avec votre base données, l’utilisateur et le mot de passe
-image:https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/wpconfig.png:[wpconfig]
+
+image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/wpconfig.png[wpconfig]
 . Renommer le fichier en wp-config.php
 . Accéder maintenant à l'adresse IP/wordpress
 . Remplir le formulaire
-image:https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/wpform.png:[wpform]
+
+image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/wpform.png[wpform]
 
 === Ajout d'extension Elementor
 
 L'extension Elementor permet de construire le site plus facilement.
 
 . Connecté sur l'adresse IP/wordpress/wp-admin
-image:https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/wpadmin.png:[wpadmin]
+
+image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/wpadmin.png[wpadmin]
 . Au menu à gauche, "Extension" puis dans la page, le bouton "Ajouter"
 . Chercher Elementor puis "installer maintenant"
 
@@ -61,6 +65,7 @@ Pour installer un thème, il y a 3 manières possibles
 
 .. Sur Wordpress > Apparence > Thèmes > Ajouter > Recherche du nom du thème puis télécharger et activer
 .. Télécharger le thème en local https://wpastra.com/
-... Soit dans Wordpress > Apparence > Thèmes > Ajouter > Téléverser un thème puis insérer le .zip
-... Soit par SFTP, FTP, SCP dans le serveur /var/www/html/wordpress/wp-content/themes/ transférer le répertoire extrait du .zip
-image:https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/wptheme.png:[wptheme]
+- Soit dans Wordpress > Apparence > Thèmes > Ajouter > Téléverser un thème puis insérer le .zip
+- Soit par SFTP, FTP, SCP dans le serveur /var/www/html/wordpress/wp-content/themes/ transférer le répertoire extrait du .zip +
+
+image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/wptheme.png[wptheme]
