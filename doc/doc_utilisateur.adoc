@@ -1,0 +1,29 @@
+== Étape 1 : Sauvegarde du site en ligne
+
+1. Connectez-vous à cPanel en utilisant le lien suivant : https://chat.o2switch.net:2083/
+
+2. Accédez au gestionnaire de fichiers.
+
+3. Remontez d'un niveau dans la structure des fichiers.
+
+4. Sélectionnez le site que vous souhaitez sauvegarder, dans notre cas, "half".
+
+5. Utilisez la fonctionnalité de compression en format ZIP pour compresser les fichiers du site.
+
+6. Sélectionnez le fichier ZIP résultant, puis utilisez la fonction de téléchargement pour le sauvegarder sur votre ordinateur.
+
+== Étape 2 : Exportation de la base de données
+
+1. Retournez à la page d'accueil de cPanel.
+
+2. Cliquez sur "phpMyAdmin".
+
+3. Sélectionnez la base de données "dumin7998_half" dans le volet de gauche.
+
+4. Cliquez sur l'onglet "Exporter".
+
+5. Cochez l'option "Personnalisée" et assurez-vous que toutes les options possibles sont affichées.
+
+6. Dans la section "Sortie", sélectionnez l'option "Zippé" pour compresser la sauvegarde.
+
+7. Cliquez sur le bouton "Exporter" pour démarrer le processus d'exportation de la base de données.
