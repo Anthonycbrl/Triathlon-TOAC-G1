@@ -1,0 +1,16 @@
+<a class="inavii__header-box" href="{{ follow_button_url }}"
+   target="_blank"
+   rel="nofollow noopener" role="button">
+    {% if (enable_avatar_header_box) %}
+        <div class="inavii__header-avatar-content">
+            <img class="inavii__image"
+                 src="{{ avatar_url }}"
+                 alt="User avatar"
+                 loading="lazy"
+            />
+        </div>
+    {% endif %}
+    {% if (username_header_box) %}
+        <span class="inavii__header-username-text">{{ username }}</span>
+    {% endif %}
+</a>

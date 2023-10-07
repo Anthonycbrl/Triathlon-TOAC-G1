@@ -1,0 +1,8 @@
+<header class="inavii__header-container">
+    {% if (username_header_box or enable_avatar_header_box) %}
+        {% include 'view/header-box/header-avatar.twig' %}
+    {% endif %}
+    {% if (enable_header_follow_button) %}
+        {% include 'view/header-box/header-follow-instagram.twig' %}
+    {% endif %}
+</header>
