@@ -32,12 +32,12 @@ Solution :
 - Nous avons donc pensé à regrouper, dans une page scroll intégrant le nouveau thème, les informations importantes par section.
 - Les sections seraient ordonnées par importance et permetraient une redirection vers la page dédiée à l'information.
 
-- https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/doc/Maquette%20TOAC.pdf[La maquette]
+-> https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/doc/Maquette%20TOAC.pdf[La maquette]
 
 // image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/doc/Maquette%20TOAC.pdf[]
 
 
-- https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/Arbo.png[l'arborescence]
+-> https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/Arbo.png[l'arborescence]
 
 // image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/Arbo.png[arborescence]
 
