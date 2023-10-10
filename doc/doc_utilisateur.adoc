@@ -48,3 +48,18 @@ image::exporter.png[]
 6. Dans la section "Sortie", sélectionnez l'option "Zippé" pour compresser la sauvegarde.
 
 7. Cliquez sur le bouton "Exporter" pour démarrer le processus d'exportation de la base de données.
+
+= Se renseigner sur les données du site 
+
+Avec google analytics, on peut acceder aux données du trafics sur le site du TOAC.
+Voici comment faire.
+
+1. Connectez vous en tant que Admin sur le site wordpress et cliquez sur le plugin google "Site Kit"
+image::toac1.png[]
+
+2. Cliquez sur le liens Analytics
+image::toac2.png[]
+
+3. Le lien ammène sur les données des trafics.
+image::toac3.png[]
+
