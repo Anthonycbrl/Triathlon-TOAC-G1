@@ -56,7 +56,7 @@ Voici comment faire.
 
 1. Connectez vous en tant que Admin sur le site wordpress et cliquez sur le plugin google "Site Kit"
 image::toac1.png[]
-
+ 
 2. Cliquez sur le liens Analytics
 image::toac2.png[]
 
