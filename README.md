@@ -53,8 +53,7 @@ Nous sommes un groupe de 4 étudiants en troisième année de BUT Informatique �
 Ce projet, qui constitue la première SAÉ de l'année, vise à exercer une refonte du site d'un club de triathlon toulousain: le TOAC. \
 L'objectif est donc un changement majeur du thème du site et de son évènement phare : le triathlon du lauragais.
 
-Serveur en local : http://192.168.224.134/wordpress/ \
-Serveur à distance : http://193.54.227.204/wordpress/
+Serveur : http://ec2-35-180-86-211.eu-west-3.compute.amazonaws.com/wordpress/
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
