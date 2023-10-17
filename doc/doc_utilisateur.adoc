@@ -1,7 +1,7 @@
 ifndef::imagesdir[:imagesdir: ../images]
 = Guide d'utilisation de l'administration de Wordpress
 
-+
+[[space]]
 
 = Guide d'utilisation d'Elementor
 
