@@ -50,6 +50,9 @@ image::exporter.png[]
 7. Cliquez sur le bouton "Exporter" pour démarrer le processus d'exportation de la base de données.
 
 
+
+
+
 = Guide pour se renseigner sur les données du site web
 
 Avec google analytics, on peut acceder aux données du trafics sur le site du TOAC.
