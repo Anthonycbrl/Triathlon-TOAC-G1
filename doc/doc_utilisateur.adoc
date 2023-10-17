@@ -1,15 +1,11 @@
 ifndef::imagesdir[:imagesdir: ../images]
 = Guide d'utilisation de l'administration de Wordpress
 
-[[space]]
-[[space]]
-[[space]]
-[[space]]
-[[space]]
+
 
 = Guide d'utilisation d'Elementor
 
-+
+
 
 = Guide de Sauvegarde du site
 
@@ -56,8 +52,6 @@ image::exporter.png[]
 6. Dans la section "Sortie", sélectionnez l'option "Zippé" pour compresser la sauvegarde.
 
 7. Cliquez sur le bouton "Exporter" pour démarrer le processus d'exportation de la base de données.
-
-+
 
 
 = Guide pour se renseigner sur les données du site web
