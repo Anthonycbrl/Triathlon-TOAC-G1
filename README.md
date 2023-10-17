@@ -82,7 +82,7 @@ Nous y avions vu courir les meilleurs athlètes français lors de finales de cou
 
 - [x] Recueil du besoin
 - [x] Analyse de l'existant
-- [ ] Développement
+- [x] Développement
 
 Regarder les [issues ouvertes](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/issues) pour une liste complète des fonctionnalités proposées (et problèmes connus).
 
