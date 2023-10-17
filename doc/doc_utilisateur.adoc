@@ -1,11 +1,11 @@
 ifndef::imagesdir[:imagesdir: ../images]
 = Guide d'utilisation de l'administration de Wordpress
 
-[[space]]
++
 
 = Guide d'utilisation d'Elementor
 
-[[space]]
++
 
 = Guide de Sauvegarde du site
 
@@ -53,8 +53,7 @@ image::exporter.png[]
 
 7. Cliquez sur le bouton "Exporter" pour démarrer le processus d'exportation de la base de données.
 
-
-[[space]]
++
 
 
 = Guide pour se renseigner sur les données du site web
