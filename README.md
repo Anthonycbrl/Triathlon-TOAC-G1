@@ -75,6 +75,24 @@ Nous y avions vu courir les meilleurs athlètes français lors de finales de cou
 <!-- Ajouts et mises à jour -->
 ## MAJ
 
+La <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/releases/tag/1">version 1</a> est le premier prototype avant l'arrivée des alternants avec une maquette et arborescence brouillons
+<br>
+<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/Maquette%20Toac_old.pdf">Maquette V1</a>
+<br>
+<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/images/Arbo_old.png">Arborescence V1</a>
+
+La <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/releases/tag/1.2">version 1.2</a> est un amélioration du premier prototype à l'aide des alternants pendant 2 semaines avec une nouvelle maquette, nouvelle arborescence prévisionnaire
+<br>
+<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/Maquette%20TOAC.pdf">Maquette V2</a>
+<br>
+<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/images/Arbo.png">Arborescence V2</a>
+
+La version 2 est la version finale du site avec la maquette et l'aborescence du client données en semaine 7 du projet
+<br>
+<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/TOAC-WEB-CLIENT.pdf">Maquette Finale du client</a>
+<br>
+<a href="">Arborescence V3</a>
+
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 <!-- ROADMAP -->
