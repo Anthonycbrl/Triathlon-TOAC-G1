@@ -5,7 +5,15 @@ ifndef::imagesdir[:imagesdir: ../images]
 
 = Guide d'utilisation d'Elementor
 
+== Guide pour créer un modèle
+Les modèles sont des morceaux d'une page qui sont utilisés sur la page `epreuve_triathlon`. Les modèles sont utilisés pour définir le contenu de l'élément `onglets`.
 
+. Aller sur la catégorie `Modèles`, `Modèles enregistrés` sur le dashboard admin de wordpress
+. Tout en haut de la page, à côté de `Modèles enregistrés`, cliquer sur `Ajouter`
+. Sélectionner le type `Conteneur`
+. Mettre un nom de la forme `modele_triathlon_**nom du format voulu**` puis valider
+. Une fois sur la page de création, ajouter un premier conteneur.
+. Vous pouvez maintenant mettre dans le conteneur tout le contenu voulu.
 
 = Guide de Sauvegarde du site
 
