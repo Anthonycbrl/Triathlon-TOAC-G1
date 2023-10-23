@@ -17,7 +17,7 @@ Les modèles sont des morceaux d'une page qui sont utilisés sur la page `epreuv
 
 = Guide de Sauvegarde du site
 
-== Étape 1 : == Étape 1 : Télecharger les fichiers du site
+== Étape 1 : Télecharger les fichiers du site
 
 1. Connectez-vous à cPanel en utilisant le lien suivant : https://chat.o2switch.net:2083/
 
@@ -61,18 +61,6 @@ image::exporter.png[]
 
 7. Cliquez sur le bouton "Exporter" pour démarrer le processus d'exportation de la base de données.
 
-= Guide de mise en ligne d'un version précedente du site web
-== Étape 1 : Importer les fichiers du site
-1. Connectez-vous à cPanel en utilisant le lien suivant : https://chat.o2switch.net:2083/
-2. Accédez au gestionnaire de fichiers.
-
-image::image.png[]
-
-3. Remontez d'un niveau dans la structure des fichiers.
-
-== Étape 2 :
-== Étape 3 : 
-== Étape 4 :
 = Guide pour se renseigner sur les données du site web
 
 Avec google analytics, on peut acceder aux données du trafics sur le site du TOAC.
