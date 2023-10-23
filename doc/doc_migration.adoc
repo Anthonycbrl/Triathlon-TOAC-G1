@@ -27,6 +27,13 @@ L’objectif de cette documentation permet d'assurer une migration si le client 
 *** Hébergement -> nouvelle ancre lien#herbergement
 *** Le village -> nouvelle ancre lien#village
 *** éco-responsabilité -> nouvelle ancre lien#eco
+* Menu mobile
+** S'inscrire -> inscription 2024
+** Pratique
+*** Accès -> nouvelle ancre lien#acces-parking
+*** Hébergement -> nouvelle ancre lien#herbergement
+*** Le village -> nouvelle ancre lien#village
+*** éco-responsabilité -> nouvelle ancre lien#eco
 * Page épreuves
 ** S'inscrire Aquathlon et Swimrun -> inscription 2024
 
