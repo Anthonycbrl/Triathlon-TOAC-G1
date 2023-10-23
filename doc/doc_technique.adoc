@@ -36,9 +36,9 @@ image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/arbores
 
 . Télécharger le .zip sur https://fr.wordpress.org/download/
 . Dézippper le .zip dans votre pc local
-. Aller sur un client ftp pour se connecter sur le serveur (Putty, Mobaxterm, FileZilla, WinSCP)
+. Aller sur un client FTP pour se connecter sur le serveur (Putty, Mobaxterm, FileZilla, WinSCP)
 . Se diriger vers le repértoire /var/www/html/
-. Avec le client SFTP, transférer le repertoire extrait /wordpress dans le serveur au repertoire
+. Avec le client FTP, transférer le repertoire extrait /wordpress dans le serveur au repertoire
 . Ensuite il faudra créer une base de données pour Wordpress, allez sur le dashboard de phpMyAdmin soit @IPServeur/phpmyadmin
 
 image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/createdb.png[createdb]
