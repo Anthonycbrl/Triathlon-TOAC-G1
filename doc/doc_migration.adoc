@@ -1,4 +1,4 @@
-= SAÉ TOAC Triathlon : DOCUMENTATION TECHNIQUE
+= SAÉ TOAC Triathlon : DOCUMENTATION MIGRATION
 :incremental:
 :numbered:
 :TOC:
