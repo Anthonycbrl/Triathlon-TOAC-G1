@@ -115,11 +115,11 @@ Regarder les [issues ouvertes](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/
 <!-- CONTACT -->
 ## Contact
 
-Initiales : \
+Initiaux : \
 Quentin Beaufort - quentin.bfrt@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/quentin-beaufort-019a28224) \
 Andrew Phakeovilay - andrew.p_pro@outlook.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/andrew-phakeovilay-731925234/) \
 Anthony Cabrillac - cabrillacanthony@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/anthony-cabrillac-042515234/)  \
-Léo Douville - leodvldvldvl@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/leo-douville-756766252/) \
+Léo Douville - leodvldvldvl@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/leo-douville-756766252/)
 
 Alternants : \
 Mathis Lahitte - mathislahitteml@gmail.com - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/mathis-lahitte-94b413228/) \
