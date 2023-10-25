@@ -4,20 +4,28 @@
 :TOC:
 :TOC-title: Sommaire
 
-== Migration
-
-=== Contexte
+== Contexte
 
 Le club de triathlon toulousain souhaiterait un changement majeur de leur site https://half.toac-triathlon.com/ afin de me faciliter la navigation sur le site pour les prochaines éditions ou explorer les anciennes éditions.
 
 L’objectif de cette documentation permet d'assurer une migration si le client souhaiterait choisir notre projet
 
-=== Modifications
+== Guide de migration
 
-.Changement de permaliens
+- Installez l'extension Duplicator dans WordPress dans le serveur d'exportation et le serveur d'importation, puis activez l'installation
+
+=== Exportation
+
+
+
+=== Importation
+
+== Modifications
+
+=== Changement de permaliens
 - Passer de Simple à Titre de la publication
 
-.Changement de liens brutes
+=== Changement de liens brutes
 * Menu en haut à gauche
 ** Swimrun -> inscription 2024
 ** Aquathlon -> inscription 2024
@@ -36,15 +44,3 @@ L’objectif de cette documentation permet d'assurer une migration si le client 
 *** éco-responsabilité -> nouvelle ancre lien#eco
 * Page épreuves
 ** S'inscrire Aquathlon et Swimrun -> inscription 2024
-
-=== Guide de mise en ligne d'un version précedente du site web
-==== Étape 1 : Importer les fichiers du site
-. Connectez-vous à cPanel en utilisant le lien suivant : https://chat.o2switch.net:2083/
-. Accédez au gestionnaire de fichiers
-image::image.png[]
-
-. Remontez d'un niveau dans la structure des fichiers.
-
-==== Étape 2 :
-==== Étape 3 : 
-==== Étape 4 :
