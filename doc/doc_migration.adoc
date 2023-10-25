@@ -64,12 +64,10 @@ image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/duplica
 
 === Importer la police Helvetica regular
 
-La police importée ne fonctionne pas. Il faut reimporter.
-+
-À l'aide de l'extension Use Any Font qui permet d'importer des polices, accessible par le tableau de bord puis Upload Font
-+
-Mettez le nom et importez le fichier de police puis Upload
-+
+La police importée ne fonctionne pas. Il faut reimporter. +
+À l'aide de l'extension Use Any Font qui permet d'importer des polices, accessible par le tableau de bord puis Upload Font +
+Mettez le nom et importez le fichier de police puis Upload +
+
 image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/importfont.png[importfont]
 
 === Changement de liens brutes
