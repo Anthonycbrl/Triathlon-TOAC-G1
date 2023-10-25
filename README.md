@@ -76,27 +76,21 @@ Nous y avions vu courir les meilleurs athlètes français lors de finales de cou
 ## MAJ
 
 La <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/releases/tag/1">version 1</a> est le premier prototype avant l'arrivée des alternants avec une maquette et arborescence brouillons
-<br>
-<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/Maquette%20Toac_old.pdf">Maquette V1</a>
-<br>
-<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/789d2ce8f9d84ba3fec69398f422660d66febe65/images/arborescence1.png">Arborescence V1</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/Maquette%20Toac_old.pdf">Maquette V1</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/789d2ce8f9d84ba3fec69398f422660d66febe65/images/arborescence1.png">Arborescence V1</a>
 
 La <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/releases/tag/1.2">version 1.2</a> est un amélioration du premier prototype à l'aide des alternants pendant 2 semaines avec une nouvelle maquette, nouvelle arborescence prévisionnaire
-<br>
-<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/Maquette%20TOAC.pdf">Maquette V2</a>
-<br>
-<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/789d2ce8f9d84ba3fec69398f422660d66febe65/images/arborescence2.png">Arborescence V2</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/Maquette%20TOAC.pdf">Maquette V2</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/789d2ce8f9d84ba3fec69398f422660d66febe65/images/arborescence2.png">Arborescence V2</a>
 
 La version 2 est la version finale du site avec la maquette et l'aborescence du client données en semaine 7 du projet
-<br>
-<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/TOAC-WEB-CLIENT.pdf">Maquette Finale du client</a>
-<br>
-<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/789d2ce8f9d84ba3fec69398f422660d66febe65/images/arborescence3.png">Arborescence V3</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/TOAC-WEB-CLIENT.pdf">Maquette Finale du client</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/789d2ce8f9d84ba3fec69398f422660d66febe65/images/arborescence3.png">Arborescence V3</a>
 
-<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_migration.adoc">Documentation migration</a>
-<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_technique.adoc">Documentation technique</a>
-<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_utilisateur.adoc">Documentation utilisateur</a>
-<a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc%20recueil%20de%20besoins.adoc">Documentation recueil de besoins</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_migration.adoc">Documentation migration</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_technique.adoc">Documentation technique</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_utilisateur.adoc">Documentation utilisateur</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc%20recueil%20de%20besoins.adoc">Documentation recueil de besoins</a>
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
