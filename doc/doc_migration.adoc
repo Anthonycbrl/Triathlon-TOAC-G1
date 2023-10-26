@@ -92,3 +92,7 @@ image::https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/images/importf
 *** éco-responsabilité -> nouvelle ancre lien#eco
 * Page épreuves
 ** S'inscrire Aquathlon et Swimrun -> inscription 2024
+* Modèles
+** Triathlon S > Règlement nouveau lien
+** Triathlon M > Règlement nouveau lien
+** Triathlon L > Règlement nouveau lien
