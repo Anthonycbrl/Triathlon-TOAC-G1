@@ -80,7 +80,7 @@ La <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/releases/tag/2">ver
 - <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/TOAC-WEB-CLIENT.pdf">Maquette Finale du client</a>
 - <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/789d2ce8f9d84ba3fec69398f422660d66febe65/images/arborescence3.png">Arborescence V3</a>
 
-- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_migration.adoc">Documentation migration</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/doc/doc_migration.adoc">Documentation migration</a>
 - <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_technique.adoc">Documentation technique</a>
 - <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_utilisateur.adoc">Documentation utilisateur</a>
 - <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc%20recueil%20de%20besoins.adoc">Documentation recueil de besoins</a>
