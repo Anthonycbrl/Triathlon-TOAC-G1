@@ -20,28 +20,15 @@
 </div>
 
 
-
 <!-- Sommaire -->
-<details>
-  <summary>Sommaire</summary>
-  <ol>
-    <li>
-      <a href="#a-propos-du-projet">A propos du projet</a>
-         <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>  
-        <a href="#entreprise">Entreprise</a> 
-    </li>
-    <li>
-      <a href="#maj">MAJ</a>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+# Table des matières
 
+1. [A propos du projet](#A-propos-du-projet)
+2. [Built With](#Built-With)
+3. [Entreprise](#Entreprise)
+4. [Mise à jour effectuées](#MAJ)
+5. [Roadmap](#Roadmap)
+6. [Behavioral Driven Development](#BDD)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -57,7 +44,7 @@ Serveur : http://ec2-35-180-86-211.eu-west-3.compute.amazonaws.com/wordpress/
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
-### Built With
+## Built With
 
 [![Wordpress.com]][Wordpress-url] \
 [![Elementor.com]][Elementor-url]
@@ -113,6 +100,10 @@ Regarder les [issues ouvertes](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
+<!-- BDD -->
+## BDD
+
+La partie du projet sur le Behavioral Driven Development de Quentin Beaufort et Andrew Phakeovilay se trouvent sur la branche [andrew-quentin_bdd_tests](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/tree/andrew-quentin_bdd_tests), le rapport sur cette partie se trouve [ici](https://docs.google.com/document/d/1vuDpdfGrDI0Ywr7CqTvx1r4QHHTrSg_grLiw_bcuQnk/edit?usp=sharing).
 
 <!-- CONTACT -->
 ## Contact
