@@ -20,28 +20,15 @@
 </div>
 
 
-
 <!-- Sommaire -->
-<details>
-  <summary>Sommaire</summary>
-  <ol>
-    <li>
-      <a href="#a-propos-du-projet">A propos du projet</a>
-         <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>  
-        <a href="#entreprise">Entreprise</a> 
-    </li>
-    <li>
-      <a href="#maj">MAJ</a>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+# Table des matières
 
+1. [A propos du projet](#A-propos-du-projet)
+2. [Built With](#Built-With)
+3. [Entreprise](#Entreprise)
+4. [Mise à jour effectuées](#MAJ)
+5. [Roadmap](#Roadmap)
+6. [Behavioral Driven Development](#BDD)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -57,7 +44,7 @@ Serveur : http://ec2-35-180-86-211.eu-west-3.compute.amazonaws.com/wordpress/
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
-### Built With
+## Built With
 
 [![Wordpress.com]][Wordpress-url] \
 [![Elementor.com]][Elementor-url]
@@ -93,7 +80,7 @@ La <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/releases/tag/2">ver
 - <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/55f567baab75700960d891fde0a856e13b4256f3/doc/TOAC-WEB-CLIENT.pdf">Maquette Finale du client</a>
 - <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/789d2ce8f9d84ba3fec69398f422660d66febe65/images/arborescence3.png">Arborescence V3</a>
 
-- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_migration.adoc">Documentation migration</a>
+- <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/main/doc/doc_migration.adoc">Documentation migration</a>
 - <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_technique.adoc">Documentation technique</a>
 - <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc_utilisateur.adoc">Documentation utilisateur</a>
 - <a href="https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/7458939b3e57843acfa6745552446ca8f317986e/doc/doc%20recueil%20de%20besoins.adoc">Documentation recueil de besoins</a>
@@ -113,6 +100,11 @@ Regarder les [issues ouvertes](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
+<!-- BDD -->
+## BDD
+
+La partie du projet sur le Behavioral Driven Development de Quentin Beaufort et Andrew Phakeovilay se trouvent sur la branche [andrew-quentin_bdd_tests](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/tree/andrew-quentin_bdd_tests), le rapport sur cette partie se trouve [ici](https://docs.google.com/document/d/1vuDpdfGrDI0Ywr7CqTvx1r4QHHTrSg_grLiw_bcuQnk/edit?usp=sharing). \
+Pour lancer les tests, héberger le wordpress (suivre méthode de migration [ici](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/andrew-quentin_bdd_tests/doc/doc_migration.adoc), avec les fichiers de migration disponible sur la release finale), puis dans un terminal, éxécuter `code\dev-aws\wordpress\vendor\bin\behat`
 
 <!-- CONTACT -->
 ## Contact
