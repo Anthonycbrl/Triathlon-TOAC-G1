@@ -103,8 +103,8 @@ Regarder les [issues ouvertes](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/
 <!-- BDD -->
 ## BDD
 
-La partie du projet sur le Behavioral Driven Development de Quentin Beaufort et Andrew Phakeovilay se trouvent sur la branche [andrew-quentin_bdd_tests](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/tree/andrew-quentin_bdd_tests), le rapport sur cette partie se trouve [ici](https://docs.google.com/document/d/1vuDpdfGrDI0Ywr7CqTvx1r4QHHTrSg_grLiw_bcuQnk/edit?usp=sharing). \
-Pour lancer les tests, héberger le wordpress (suivre méthode de migration [ici](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/andrew-quentin_bdd_tests/doc/doc_migration.adoc), avec les fichiers de migration disponible sur la release finale), puis dans un terminal, éxécuter `code\dev-aws\wordpress\vendor\bin\behat`
+La partie du projet sur le Behavioral Driven Development de Leo Douville et Anthony Cabrillac se trouvent sur la branche [andrew-quentin_bdd_tests](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/tree/leo-anthony-bdd-tests), le rapport sur cette partie se trouve [ici](https://docs.google.com/document/d/1FUqIPvvhcBGmWFm9rfrEqStXlDDXX7w3KCi_uvQmBGI/edit?usp=sharing). \
+Pour lancer les tests, héberger le wordpress (suivre méthode de migration [ici](https://github.com/Anthonycbrl/Triathlon-TOAC-G1/blob/andrew-quentin_bdd_tests/doc/doc_migration.adoc), avec les fichiers de migration disponible sur la release finale), puis dans un terminal, éxécuter `\vendor\bin\behat` depuis la racine du repertoire ou vous avez migré le site.
 
 <!-- CONTACT -->
 ## Contact
